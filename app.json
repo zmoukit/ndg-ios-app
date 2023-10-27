@@ -9,5 +9,10 @@
     ],
     "name": "ndg_app",
     "slug": "ndg_app"
+  },
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#db1430"
   }
 }
